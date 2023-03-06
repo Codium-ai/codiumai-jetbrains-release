@@ -8,7 +8,7 @@
 
 ![How it works](https://raw.githubusercontent.com/Codium-ai/codiumai-vscode-release/main/media/docs/v042-qa-3Full.gif)
 
-_Closed Alpha Version 0.4.1 - Supported in PyCharm version 1.58.0 and above_
+_Closed Alpha Version 0.4.1 - Supported in PyCharm version 12022.1 and up, and in JetBrains IDE with Python support installed_
 
 ## Features
 
