@@ -28,22 +28,26 @@ By creating comprehensive test suites, our tool helps you catch and fix bugs ear
 
 ## Getting started
 
-![Login page step one](https://raw.githubusercontent.com/Codium-ai/codiumai-vscode-release/main/media/docs/Step1.jpg)
+![Login page step one](https://raw.githubusercontent.com/Codium-ai/codiumai-jetbrains-release/main/media/docs/Step1.jpg)
 <br>
 
-![Review the results](https://raw.githubusercontent.com/Codium-ai/codiumai-vscode-release/main/media/docs/Step1.jpg)
+![Generate tests](https://raw.githubusercontent.com/Codium-ai/codiumai-jetbrains-release/main/media/docs/Step2.jpg)
 <br>
 
-![Modify test style](https://raw.githubusercontent.com/Codium-ai/codiumai-vscode-release/main/media/docs/Step1.jpg)
+![Review the results](https://raw.githubusercontent.com/Codium-ai/codiumai-jetbrains-release/main/media/docs/Step3.jpg)
 <br>
 
-![Modify test cases](https://raw.githubusercontent.com/Codium-ai/codiumai-vscode-release/main/media/docs/Step1.jpg)
+![Modify test style](https://raw.githubusercontent.com/Codium-ai/codiumai-jetbrains-release/main/media/docs/Step4.jpg)
 <br>
 
-![Regenerate tests](https://raw.githubusercontent.com/Codium-ai/codiumai-vscode-release/main/media/docs/Step1.jpg)
+![Modify test cases](https://raw.githubusercontent.com/Codium-ai/codiumai-jetbrains-release/main/media/docs/Step5.jpg)
 <br>
 
-![Accept and enjoy](https://raw.githubusercontent.com/Codium-ai/codiumai-vscode-release/main/media/docs/Step1.jpg)
+![Regenerate tests](https://raw.githubusercontent.com/Codium-ai/codiumai-jetbrains-release/main/media/docs/Step6.jpg)
+
+<br>
+
+![Save and enjoy](https://raw.githubusercontent.com/Codium-ai/codiumai-jetbrains-release/main/media/docs/Step7.jpg)
 
 <br>
 
