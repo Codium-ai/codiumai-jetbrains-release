@@ -8,7 +8,7 @@
 
 ![How it works](https://raw.githubusercontent.com/Codium-ai/codiumai-jetbrains-release/main/media/docs/TestGeneration.gif)
 
-_Closed Alpha Version 0.4.1 - Supported in PyCharm version 12022.1 and up, and in JetBrains IDE with Python support installed_
+_Closed Alpha Version 0.4.1 - Supported in PyCharm version 2022.1 and up, and in any other JetBrains IDE with Python support installed_
 
 ## Features
 
