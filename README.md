@@ -54,7 +54,7 @@ By creating comprehensive test suites, our tool helps you catch and fix bugs ear
 
 2. Once you confirm the activation you should be able to generate tests right away.
 
-3. Open existing Python file or write a new Python class/function and press the "Generate Tests" on top of the class/function.
+3. Open existing file or write a new class/function and press the "Generate Tests" on top of the class/function.
 
 4. A new tab will open in your PyCharm with the generated tests, along with your code analysis, test plan, and test code.
 
