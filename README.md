@@ -2,19 +2,19 @@
 
 ---
 
-> CodiumAI analyzes your Python code and generates meaningful tests to catch bugs before you ship. With Codium, you can easily and quickly create comprehensive test suites that help you ensure the reliability and correctness of your software.
+> CodiumAI analyzes your Python, JavaScript and TypeScript code and generates meaningful tests to catch bugs before you ship. With Codium, you can easily and quickly create comprehensive test suites that help you ensure the reliability and correctness of your software.
 
 ---
 
 ![How it works](https://raw.githubusercontent.com/Codium-ai/codiumai-jetbrains-release/main/media/docs/TestGeneration.gif)
 
-_Closed Alpha Version 0.4.1 - Supported in PyCharm version 2022.1 and up, and in any other JetBrains IDE with Python support installed_
+_Closed Alpha Version 0.4.1 - Supported in PyCharm version 2022.1 and up, and in any other JetBrains IDE with Python, JavaScript or TypeScript support installed_
 
 ## Features
 
 #### 🤖 Generates unit tests automatically
 
-Simply press the "generate tests" button above your Python class or function, and CodiumAI will generate a set of suggested tests for different use cases.
+Simply press the "generate tests" button above your Python, JavaScript or TypeScript class or function, and CodiumAI will generate a set of suggested tests for different use cases.
 
 #### ✨ Works seamlessly with PyCharm
 
