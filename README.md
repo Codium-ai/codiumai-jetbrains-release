@@ -72,9 +72,9 @@ By creating comprehensive test suites, our tool helps you catch and fix bugs ear
 
 ## Links
 
-[![Join our Discord community](https://raw.githubusercontent.com/Codium-ai/codiumai-vscode-release/main/media/docs/Joincommunity.png)](https://discord.gg/SgSxuQ65GF)
+[![Join our Discord community](https://raw.githubusercontent.com/Codium-ai/codiumai-vscode-release/main/media/docs/Joincommunity.png)](https://discord.gg/kG35uSHDBc)
 
-- Discord community: https://discord.gg/SgSxuQ65GF
+- Discord community: https://discord.gg/kG35uSHDBc
 - Code examples: https://raw.githubusercontent.com/Codium-ai/codium-code-examples
 - Project homepage: https://codium.ai
 - Blog: https://www.codium.ai/blog
@@ -82,6 +82,6 @@ By creating comprehensive test suites, our tool helps you catch and fix bugs ear
 
 ## Terms of use
 
-- Terms of use: https://www.codium.ai/terms-of-use
-- Privacy policy: https://www.codium.ai/platform-privacy-policy
+- Terms of use: https://www.codium.ai/terms
+- Privacy policy: https://www.codium.ai/privacy-policy
 - Please notice - similar to other popular generative-AI tools (such as copilot), we also transmit code snippets to our servers.
