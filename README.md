@@ -6,7 +6,7 @@
 
 ![How it works](https://raw.githubusercontent.com/Codium-ai/codiumai-jetbrains-release/main/media/docs/TestGeneration.gif)
 
-_Beta Version 0.4.1 - Supported in PyCharm version 2022.1 and up, and in any other JetBrains IDE with Python, JavaScript or TypeScript support installed_
+_Beta Version - Supported in PyCharm version 2022.1 and up, and in any other JetBrains IDE with Python, JavaScript or TypeScript support installed_
 
 ## Features
 
