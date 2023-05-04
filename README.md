@@ -1,24 +1,18 @@
 # CodiumAI - Meaningful tests for busy devs
 
 ---
-
-> CodiumAI analyzes your Python, JavaScript and TypeScript code and generates meaningful tests to catch bugs before you ship. With Codium, you can easily and quickly create comprehensive test suites that help you ensure the reliability and correctness of your software.
-
+> CodiumAI analyzes your code and generates meaningful tests to catch bugs before you ship. With CodiumAI, you can easily and quickly create comprehensive test suites that help you ensure the reliability and correctness of your software. Supports Python, Javascript and Typescript.
 ---
 
 ![How it works](https://raw.githubusercontent.com/Codium-ai/codiumai-jetbrains-release/main/media/docs/TestGeneration.gif)
 
-_Closed Alpha Version 0.4.1 - Supported in PyCharm version 2022.1 and up, and in any other JetBrains IDE with Python, JavaScript or TypeScript support installed_
+_Beta Version 0.4.1 - Supported in PyCharm version 2022.1 and up, and in any other JetBrains IDE with Python, JavaScript or TypeScript support installed_
 
 ## Features
 
-#### 🤖 Generates unit tests automatically
+#### 🤖 Generates unit tests suite automatically
 
-Simply press the "generate tests" button above your Python, JavaScript or TypeScript class or function, and CodiumAI will generate a set of suggested tests for different use cases.
-
-#### ✨ Works seamlessly with PyCharm
-
-The generated tests will be displayed in a new tab in your PyCharm, along with your code description, so you can easily review and edit them as needed.
+#### 🔬 Analyzes your code
 
 #### 🚀 Helps you improve code quality
 
@@ -26,44 +20,59 @@ By creating comprehensive test suites, our tool helps you catch and fix bugs ear
 
 ---
 
-## Getting started
+## Supported languages
 
-![Login page step one](https://raw.githubusercontent.com/Codium-ai/codiumai-jetbrains-release/main/media/docs/Step1.png)
-<br>
+![](https://raw.githubusercontent.com/Codium-ai/codiumai-vscode-release/main/media/docs/supported.png)
 
-![Generate tests](https://raw.githubusercontent.com/Codium-ai/codiumai-jetbrains-release/main/media/docs/Step2.png)
-<br>
+---
 
-![Review the results](https://raw.githubusercontent.com/Codium-ai/codiumai-jetbrains-release/main/media/docs/Step3.png)
-<br>
+## How to use CodiumAI?
 
-![Modify test style](https://raw.githubusercontent.com/Codium-ai/codiumai-jetbrains-release/main/media/docs/Step4.png)
-<br>
+#### Generate tests 
+Generate tests for a function or a class, using the `Generate tests` button above a function/class name, or using CodiumAI panel and choose the desired function/class:
 
-![Modify test cases](https://raw.githubusercontent.com/Codium-ai/codiumai-jetbrains-release/main/media/docs/Step5.png)
-<br>
+![](https://raw.githubusercontent.com/Codium-ai/codiumai-jetbrains-release/main/media/docs/GenerateTests.png)
 
-![Regenerate tests](https://raw.githubusercontent.com/Codium-ai/codiumai-jetbrains-release/main/media/docs/Step6.png)
-<br>
+#### Review the results
+CodiumAI tab will present the test results - review the test names, objectives, types, and the test code:
 
-![Save and enjoy](https://raw.githubusercontent.com/Codium-ai/codiumai-jetbrains-release/main/media/docs/Step7.png)
+![](https://raw.githubusercontent.com/Codium-ai/codiumai-jetbrains-release/main/media/docs/ReviewResults.png)
 
-<br>
+#### Modify tests
+Want to modify a single test code? Simply type the change you want inside the `Suggest changes..` field, and TestGPT will modify the code based on your request:
 
-1. After installation, you will be redirected to the login page.
+![](https://raw.githubusercontent.com/Codium-ai/codiumai-jetbrains-release/main/media/docs/SuggestChanges.png)
 
-2. Once you confirm the activation you should be able to generate tests right away.
+Want more tests? Click on `Give me more tests` at the bottom of the test suite:
 
-3. Open existing file or write a new class/function and press the "Generate Tests" on top of the class/function.
+![](https://raw.githubusercontent.com/Codium-ai/codiumai-jetbrains-release/main/media/docs/RequestMoreTests.png)
 
-4. A new tab will open in your PyCharm with the generated tests, along with your code analysis, test plan, and test code.
+Want to remove a test from your test suite? Click on the `delete` button on each test:
 
-5. Modify the test style in the Optional Instructions dropdown and re-generate tests in the new style.
+![](https://raw.githubusercontent.com/Codium-ai/codiumai-jetbrains-release/main/media/docs/DeleteSingleTest.png)
 
-6. Modify the test cases list to fully control generated tests. Exclude the cases you don't need, include suggested cases from the "Additional Test Cases" list, and add your own test cases. After each edit re-generate tests to get a new list of test code.
+#### Change test suite configurations
+Improve and personalize your test suite by giving general instructions, examples of input and tests and select your preferred testing framework in the `Configuration` section:
 
-7. Save tests you find useful to a new file.
-   <br>
+![](https://raw.githubusercontent.com/Codium-ai/codiumai-jetbrains-release/main/media/docs/AddTestExample.png)
+![](https://raw.githubusercontent.com/Codium-ai/codiumai-jetbrains-release/main/media/docs/AddInputData.png)
+![](https://raw.githubusercontent.com/Codium-ai/codiumai-jetbrains-release/main/media/docs/ChangeGeneralConfiguration.png)
+![](https://raw.githubusercontent.com/Codium-ai/codiumai-jetbrains-release/main/media/docs/ModifyFramework.png)
+
+#### Add your own test
+Want to add a custom test that was not automatically generated? Click on `New custom test` button and write the test name and objective, and TestGPT model will generate the test code for you, based on your preferences:
+
+![](https://raw.githubusercontent.com/Codium-ai/codiumai-jetbrains-release/main/media/docs/AddCustomTest.png)
+
+#### Code analysis
+Read your code analysis written by our TestGPT model, you can use it for documentation and to make sure your code is doing what it should. Click on the `Code Analysis` tab and find out:
+
+![](https://raw.githubusercontent.com/Codium-ai/codiumai-jetbrains-release/main/media/docs/CodeAnalysis.png)
+
+#### Save your test suite
+When you're happy with your generated test suite, you can click on copy icon and copy the test suite code, or simply click on `Save to file` and we will create a test file for you:
+
+![](https://raw.githubusercontent.com/Codium-ai/codiumai-jetbrains-release/main/media/docs/OpenCopy.png)
 
 ## How to uninstall
 
@@ -75,9 +84,8 @@ By creating comprehensive test suites, our tool helps you catch and fix bugs ear
 [![Join our Discord community](https://raw.githubusercontent.com/Codium-ai/codiumai-vscode-release/main/media/docs/Joincommunity.png)](https://discord.gg/kG35uSHDBc)
 
 - Discord community: https://discord.gg/kG35uSHDBc
-- Code examples: https://raw.githubusercontent.com/Codium-ai/codium-code-examples
-- Project homepage: https://codium.ai
-- Blog: https://www.codium.ai/blog
+- CodiumAI site: https://codium.ai
+- Blog: https://www.codium.ai/blog/
 - Support: support@codium.ai
 
 ## Terms of use
