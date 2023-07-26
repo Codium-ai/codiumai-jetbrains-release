@@ -12,7 +12,7 @@
 
 </div>
 
-![How it works](https://raw.githubusercontent.com/Codium-ai/codiumai-jetbrains-release/main/media/docs/0.5.0.gif)
+![How it works](https://raw.githubusercontent.com/Codium-ai/codiumai-jetbrains-release/main/media/docs/JB0.5.22.gif)
 
 _Beta Version - Supported in PyCharm version 2022.1 and up, and in any other JetBrains IDE with Python, JavaScript or TypeScript support installed_
 
