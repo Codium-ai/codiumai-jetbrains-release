@@ -124,6 +124,13 @@ Choose the suggestion you want to apply, and merge them into your code:
 
 ![](https://raw.githubusercontent.com/Codium-ai/codiumai-jetbrains-release/main/media/docs/MergeSuggestions.png)
 
+## Copy request ID
+
+When reporting a bug, please copy the request ID and attach it to the bug report:
+
+![](https://raw.githubusercontent.com/Codium-ai/codiumai-jetbrains-release/main/media/docs/RequestID.png)
+
+
 ## How to uninstall
 
 1. Go to Preferences -> Plugins and select CodiumAI from the list of enabled plugins.
