@@ -1,12 +1,14 @@
 <div align="center">
 
-# CodiumAI - Meaningful tests for busy devs
+# Codiumate
+### Code, test and review with confidence - your AI mate by CodiumAI
 
-[![Discord](https://badgen.net/badge/icon/discord?icon=discord&label&color=purple)](https://discord.gg/kG35uSHDBc)
-
+[![Twitter URL](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/CodiumAI)    [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kG35uSHDBc)    [![Twitter URL](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@codiumai)
 ---
 
-**CodiumAI** analyzes your code and generates meaningful tests to catch bugs before you ship. With CodiumAI, you can easily and quickly create comprehensive test suites that help you ensure the reliability and correctness of your software. Supports Python, Javascript and Typescript.
+Elevate your coding experience with iterative test generation and intelligent code assistant, and efficient PR reviews, all smoothly integrated into your development workflow. Boost your productivity, code with confidence, and optimize your development process!
+
+**It supports all languages!**
 
 ---
 
@@ -14,34 +16,32 @@
 
 ![How it works](https://raw.githubusercontent.com/Codium-ai/codiumai-jetbrains-release/main/media/docs/JB0.5.22.gif)
 
-_Beta Version - Supported in PyCharm version 2022.1 and up, and in any other JetBrains IDE with Python, JavaScript or TypeScript support installed_
+_Beta Version - Supported in JetBrains version 2023.1 and up_
 
 ## Features
 
-#### 🤖 Generates unit tests suite automatically
+#### 🤖 Generate unit tests suite automatically
 
-#### 🔬 Analyzes your code
+#### 🔬 Analyze your code
 
-#### 💡 Suggests code modifications to improve the performance and correctness of your code
+#### 💡 Suggest code modifications to improve the performance and correctness of your code
 
-#### 🚀 Helps you improve code quality
+#### 💫 Find potential bugs in your code and suggest ways to fix them
+
+#### 👀 Prepare better for your PR
+
+#### 🚀 Help you improve code quality
 
 By creating comprehensive test suites, our tool helps you catch and fix bugs early and ensures that your code is reliable and maintainable.
-
----
-
-## Supported languages
-
-![](https://raw.githubusercontent.com/Codium-ai/codiumai-vscode-release/main/media/docs/supported.png)
 
 ---
 
 > #### TL;DR:
 
 > - Click on the `Generate Tests` button above a function/class/method name
-> - Use CodiumAI quick actions left panel to generate tests
+> - Use Codiumate PR-Assistant chat to prepare for your PR (Pro💎)
 
-## How to use CodiumAI?
+## How to use Codiumate?
 
 #### Generate tests 
 Generate tests for a function, a class, or a method using the `CodiumAI: Test this class/function/method` button above a function/class/method name:
@@ -49,19 +49,13 @@ Generate tests for a function, a class, or a method using the `CodiumAI: Test th
 ![](https://raw.githubusercontent.com/Codium-ai/codiumai-jetbrains-release/main/media/docs/GenerateTests.png)
 
 #### Review the results
-CodiumAI tab will present the test results - review the test names, objectives, types, and the test code:
+Codiumate tab will present the test results - review the test names, objectives, types, and the test code:
 
 ![](https://raw.githubusercontent.com/Codium-ai/codiumai-jetbrains-release/main/media/docs/ReviewResults.png)
 
-#### Generate tests from CodiumAI Panel
-
-You can also view all the components you can generate tests for from CodiumAI left panel:
-
-![](https://raw.githubusercontent.com/Codium-ai/codiumai-jetbrains-release/main/media/docs/QuickActions-Tests.png)
-
 #### Explore behavior coverage
 
-CodiumAI generates a behavior list of your code and marks each behavior as covered or not covered based on the generated test.
+Codiumate generates a behavior list of your code and marks each behavior as covered or not covered based on the generated test.
 The number of covered behaviors calculates the coverage percentages.
 You can refresh the coverage when you modify your test suite (add, remove, or modify tests):
 
@@ -69,7 +63,7 @@ You can refresh the coverage when you modify your test suite (add, remove, or mo
 
 #### Add test for uncovered behavior
 
-For behaviors that are not covered by tests, you can click on the `Generate test` button next to it, and CodiumAI will generate a test
+For behaviors that are not covered by tests, you can click on the `Generate test` button next to it, and Codiumate will generate a test
 for this behavior.
 
 ![](https://raw.githubusercontent.com/Codium-ai/codiumai-jetbrains-release/main/media/docs/AddTestForBehavior.png)
@@ -133,7 +127,7 @@ When reporting a bug, please copy the request ID and attach it to the bug report
 
 ## How to uninstall
 
-1. Go to Preferences -> Plugins and select CodiumAI from the list of enabled plugins.
+1. Go to Preferences -> Plugins and select Codiumate from the list of enabled plugins.
 2. Disable or uninstall the plugin using the dropdown below the name.
 
 ## Links
