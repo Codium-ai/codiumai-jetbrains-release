@@ -30,6 +30,8 @@ _Beta Version - Supported in JetBrains version 2023.1 and up_
 
 #### 👀 Prepare better for your PR
 
+#### 💬 Free chat with GPT model with or without the code as context
+
 #### 🚀 Help you improve code quality
 
 By creating comprehensive test suites, our tool helps you catch and fix bugs early and ensures that your code is reliable and maintainable.
