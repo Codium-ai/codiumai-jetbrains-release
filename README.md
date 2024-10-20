@@ -215,7 +215,7 @@ Qodo Gen maintains a history of your 20 most recent conversations, allowing you 
 
 You can continue a past chat to dive deeper into a topic or request additional information.
 
-Currently, your chat history wouldn't be saved between sessions, and will be deleted once you close VSCode. We are working on adding this feature in the future. Stay tuned!
+Currently, your chat history wouldn't be saved between sessions, and will be deleted once you close IDE. We are working on adding this feature in the future. Stay tuned!
 
 To get to your Chat History, click on the History button on the top right, next to the "New Chat" button.
 
