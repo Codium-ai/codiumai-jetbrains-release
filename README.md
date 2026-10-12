@@ -1,4 +1,4 @@
-**The Qodo IDE plugin is being retired on October 30, 2026.** Local code review now runs inside the coding agents you already use. Set up the Qodo Agentic Toolbox to keep reviewing code before you open a PR. [Get started](https://docs.qodo.ai/agentic-toolbox)
+**The Qodo IDE plugin (formerly Qodo Gen) is being retired on October 30, 2026.** Local code review now runs inside the coding agents you already use. Set up the [Qodo Agentic Toolbox](https://docs.qodo.ai/agentic-toolbox) to keep reviewing code before you open a PR.
 
 # Qodo: Local Code Review
 
